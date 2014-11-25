@@ -1,0 +1,6 @@
+[submodule "lib/30log"]
+	path = lib/30log
+	url = git@github.com:Yonaba/30log.git
+[submodule "lib/undescore"]
+	path = lib/undescore
+	url = git@github.com:mirven/underscore.lua.git
